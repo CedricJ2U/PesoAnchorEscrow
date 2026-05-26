@@ -24,3 +24,8 @@ To empower underbanked cross-border gig economy workers in emerging markets, boo
 ## How to Build
 ```bash
 soroban contract build
+```
+
+## contract deployed
+CC5XA44BWM5GSO2AZIYNARLMRTLA6UBOCWJ7YRQAP3R4NBLIZTM23VRO
+https://stellar.expert/explorer/testnet/contract/CC5XA44BWM5GSO2AZIYNARLMRTLA6UBOCWJ7YRQAP3R4NBLIZTM23VRO
